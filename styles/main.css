@@ -1,0 +1,15 @@
+.shop {
+    border: 2px solid blue;
+    padding: 5%;
+    margin: 0.5 em;
+    flex-basis: 16%;
+    text-align: center;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* flex-direction: column;
+    column-gap: 20px */
+} 
+}
